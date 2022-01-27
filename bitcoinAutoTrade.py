@@ -6,9 +6,9 @@ import requests
 
 
 
-access = "SCpgbjxlvohuJFt7PxSHx90ocu0hINTS2r22Dof0"          # 본인 값으로 변경
-secret = "6QIwRHY5quwMHYWUyzBMYO6pL4dOVf1FQcxRpIlc"          # 본인 값으로 변경
-mytoken = "xoxb-2983705535250-2978509260982-gwodX99e2QQQGfVEOnfenuac"
+access = ""          # 본인 값으로 변경
+secret = ""          # 본인 값으로 변경
+mytoken = ""
 crypto = "KRW-BTC"
 
 
